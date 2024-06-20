@@ -71,4 +71,4 @@ To contribute:
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-- Project Link: [https://github.com/your-username/pdf-summarizer-app](https://github.com/your-username/pdf-summarizer-app)
+- Project Link: [https://github.com/your-username/pdf-summarizer-app](https://github.com/hitesh-bhatnagar/PDF-Summarizer_APP.git)
